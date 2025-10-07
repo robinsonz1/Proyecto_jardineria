@@ -1,0 +1,32 @@
+# Archivos temporales de SQL Server
+*.bak
+*.log
+*.ldf
+*.mdf
+*.ndf
+
+# Archivos de Office temporales
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Carpetas de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de configuración local
+*.config
+appsettings.json
+
+# Carpeta de backups (opcional - si son muy pesados)
+# Backups/
+
+# Archivos de Visual Studio (si usas)
+.vs/
+*.suo
+*.user
+
+# Node modules (si usas)
+node_modules/
